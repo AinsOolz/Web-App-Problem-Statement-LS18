@@ -11,7 +11,7 @@ export default function Header() {
           className="logo"
           src={logo}
           alt="RP Logo"
-          title="RP Logo | Home"
+          title="RP Home | Home"
         />
       </Link>
 

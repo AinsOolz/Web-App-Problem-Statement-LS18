@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AinsOolz/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css",
-    "main.js": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.88c725c2.js",
+    "main.js": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.33f44beb.js",
     "static/media/Home_Banner.jpg": "/AinsOolz/Web-App-Problem-Statement-LS18/static/media/Home_Banner.7455aee66183ba225061.jpg",
     "static/media/rp-logo.png": "/AinsOolz/Web-App-Problem-Statement-LS18/static/media/rp-logo.a76b4d6a8e6239425057.png",
     "index.html": "/AinsOolz/Web-App-Problem-Statement-LS18/index.html",
     "main.5c98e1b9.css.map": "/AinsOolz/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css.map",
-    "main.88c725c2.js.map": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.88c725c2.js.map"
+    "main.33f44beb.js.map": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.33f44beb.js.map"
   },
   "entrypoints": [
     "static/css/main.5c98e1b9.css",
-    "static/js/main.88c725c2.js"
+    "static/js/main.33f44beb.js"
   ]
 }

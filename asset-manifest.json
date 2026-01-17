@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AinsOolz/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css",
-    "main.js": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.33f44beb.js",
-    "static/media/Home_Banner.jpg": "/AinsOolz/Web-App-Problem-Statement-LS18/static/media/Home_Banner.7455aee66183ba225061.jpg",
-    "static/media/rp-logo.png": "/AinsOolz/Web-App-Problem-Statement-LS18/static/media/rp-logo.a76b4d6a8e6239425057.png",
-    "index.html": "/AinsOolz/Web-App-Problem-Statement-LS18/index.html",
-    "main.5c98e1b9.css.map": "/AinsOolz/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css.map",
-    "main.33f44beb.js.map": "/AinsOolz/Web-App-Problem-Statement-LS18/static/js/main.33f44beb.js.map"
+    "main.css": "/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css",
+    "main.js": "/Web-App-Problem-Statement-LS18/static/js/main.d473a5a8.js",
+    "static/media/Home_Banner.jpg": "/Web-App-Problem-Statement-LS18/static/media/Home_Banner.7455aee66183ba225061.jpg",
+    "static/media/rp-logo.png": "/Web-App-Problem-Statement-LS18/static/media/rp-logo.a76b4d6a8e6239425057.png",
+    "index.html": "/Web-App-Problem-Statement-LS18/index.html",
+    "main.5c98e1b9.css.map": "/Web-App-Problem-Statement-LS18/static/css/main.5c98e1b9.css.map",
+    "main.d473a5a8.js.map": "/Web-App-Problem-Statement-LS18/static/js/main.d473a5a8.js.map"
   },
   "entrypoints": [
     "static/css/main.5c98e1b9.css",
-    "static/js/main.33f44beb.js"
+    "static/js/main.d473a5a8.js"
   ]
 }
